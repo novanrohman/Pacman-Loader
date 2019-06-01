@@ -1,0 +1,1 @@
+alert("Jangan di tekan")
